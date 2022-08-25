@@ -1,5 +1,7 @@
-# Basic Sample Hardhat Project
+# NFT Mint contract
 
-deployer: 0x8B5A68...
-contract: 0x13050C...
-chain: rinkeby
+## requirement
+
+1) item size: 3333
+2) first 1000: free mint, remaining: 0.0099eth
+3) maximum mint nfts per wallet: 5
